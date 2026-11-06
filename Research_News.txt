@@ -1,0 +1,18 @@
+
+# Article 1
+
+Title: Discovery of a New Exoplanet
+DOI: 10.1234/exoplanet001
+Publication Date: 2026-10-28
+Source URL: https://example.com/exoplanet001
+
+Summary: Researchers report a new exoplanet discovery.
+
+# Article 2
+
+Title: New Advances in Quantum Computing
+DOI: 10.1234/quantum001
+Publication Date: 2026-10-29
+Source URL: https://example.com/quantum001
+
+Summary: Researchers present advances in quantum computing.

@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+# Secrets
+.env
+credentials.json
+token.json
+
+# Generated files
+*.db
+logs/
+
+# Python temporary files
+__pycache__/
+.venv/
+.ipynb_checkpoints/
